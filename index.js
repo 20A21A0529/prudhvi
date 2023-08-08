@@ -18,4 +18,4 @@ document.getElementById('btn').addEventListener('click',function(){
 });
 function displayMessage(Message){
     document.getElementById('msg').textContent=Message;
-}
+}   
